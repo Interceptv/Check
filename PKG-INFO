@@ -1,3 +1,13 @@
+Metadata-Version: 2.1
+Name: CheckerUser
+Version: 2.2.13
+Home-page: https://github.com/DuTra01/CheckUser
+Author: Glemison C. Dutra
+Author-email: glemyson20@gmail.com
+License: MIT
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # CheckUser
 
 *CheckUser* E um verificador de usuários.
